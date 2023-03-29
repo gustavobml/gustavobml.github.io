@@ -1,0 +1,9 @@
+#p_destaque {
+    text-align: center;
+    color: blue;
+  }
+
+div p {
+    text-align: center;
+    background-color: yellow;
+}
