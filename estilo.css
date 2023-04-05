@@ -5,5 +5,24 @@
 
 div p {
     text-align: center;
-    background-color: yellow;
+    background-color: rebeccapurple;
+}
+
+p {
+  border-top-style: solid;
+  border-top-color: pink;
+  border-right-style: solid;
+  border-right-color: greenyellow;
+  border-bottom-style: solid;
+  border-bottom-color: pink;
+  border-left-style: solid;
+  border-left-color: greenyellow;
+}
+
+.espacamento25 {
+  padding: 25px;
+}
+
+.margem12 {
+  margin: 12px;
 }
