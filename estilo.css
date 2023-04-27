@@ -5,16 +5,16 @@
 
 div p {
     text-align: center;
-    background-color: rebeccapurple;
+    background-color: green;
 }
 
 p {
   border-top-style: solid;
-  border-top-color: pink;
+  border-top-color: greenyellow;
   border-right-style: solid;
   border-right-color: greenyellow;
   border-bottom-style: solid;
-  border-bottom-color: pink;
+  border-bottom-color: greenyellow;
   border-left-style: solid;
   border-left-color: greenyellow;
 }
