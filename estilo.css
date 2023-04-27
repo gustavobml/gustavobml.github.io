@@ -5,18 +5,18 @@
 
 div p {
     text-align: center;
-    background-color: green;
+    background-color: blue;
 }
 
 p {
   border-top-style: solid;
-  border-top-color: red;
+  border-top-color: yellow;
   border-right-style: solid;
-  border-right-color: red;
+  border-right-color: yellow;
   border-bottom-style: solid;
-  border-bottom-color: red;
+  border-bottom-color: yellow;
   border-left-style: solid;
-  border-left-color: red;
+  border-left-color: yellow;
 }
 
 .espacamento15 {
