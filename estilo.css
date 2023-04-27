@@ -10,13 +10,13 @@ div p {
 
 p {
   border-top-style: solid;
-  border-top-color: 8FBC8F;
+  border-top-color: red;
   border-right-style: solid;
-  border-right-color: 8FBC8F;
+  border-right-color: red;
   border-bottom-style: solid;
-  border-bottom-color: 8FBC8F;
+  border-bottom-color: red;
   border-left-style: solid;
-  border-left-color: 8FBC8F;
+  border-left-color: red;
 }
 
 .espacamento25 {
